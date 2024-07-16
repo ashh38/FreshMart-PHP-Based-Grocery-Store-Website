@@ -1,4 +1,7 @@
-# FreshMart-PHP-Based-Grocery-Store-Website
+# E-Commerce-Website-Using-PHP
+
+## Summary
+Hello friends, This is my first full e-commerce project. This is free. Anybody can use and moderate this project.
 
 ## Platform Used
 ### Front-End
@@ -28,3 +31,6 @@
 (ii) Update Product <br>
 (iii) Delete Product <br>
 (iv) Confirm Order <br>
+
+## Conclusion
+There are also many more feature which are not in the list. Feel free to use this project
